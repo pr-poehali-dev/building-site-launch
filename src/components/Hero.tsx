@@ -13,7 +13,7 @@ const Hero = () => {
       
       <div className="container mx-auto px-4 relative z-10 text-center animate-fade-in">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 text-foreground">
-          Строим будущее <span className="text-primary">вместе</span>
+          Строим будущее вместе с <span className="text-primary">ХК Альтус Урал</span>
         </h1>
         <p className="text-xl md:text-2xl mb-8 text-muted-foreground max-w-2xl mx-auto">
           Профессиональное строительство жилых и коммерческих объектов с 2010 года
