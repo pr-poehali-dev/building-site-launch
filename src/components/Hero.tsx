@@ -16,7 +16,7 @@ const Hero = () => {
           Строим будущее вместе с <span className="text-primary">ХК Альтус Урал</span>
         </h1>
         <p className="text-xl md:text-2xl mb-8 text-muted-foreground max-w-2xl mx-auto">
-          Профессиональное строительство жилых и коммерческих объектов с 2010 года
+          Профессионально выполним капремонт жилых и коммерческих объектов.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button 
